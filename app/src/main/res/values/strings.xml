@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiniApp_Hossen</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_blog">Blog</string>
+    <string name="menu_referral">Referral</string>
+    <string name="menu_more">More</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_home" android:title="@string/menu_home"
+        app:showAsAction="always" android:icon="@drawable/ic_home" />
+    <item android:id="@+id/menu_profile" android:title="@string/menu_profile" android:icon="@drawable/ic_profile"/>
+    <item android:id="@+id/menu_blog" android:title="@string/menu_blog" android:icon="@drawable/ic_blog" />
+    <item android:id="@+id/menu_referral" android:title="@string/menu_referral" android:icon="@drawable/ic_referral" />
+    <item android:id="@+id/menu_more" android:title="@string/menu_more" android:icon="@drawable/ic_more" />
+</menu>
